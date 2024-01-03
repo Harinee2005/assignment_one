@@ -1,0 +1,128 @@
+.portfolio-intropage {
+    background-color: black;
+}
+
+.width {
+    width: 100%;
+}
+
+.portfolio-navbar {
+    font-family: "Times New Roman";
+    color: black;
+}
+
+.navbar-bg {
+    background-color: #008080;
+}
+
+.home-profile-img {
+    height: 70%;
+    width: 40%;
+    border-radius: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.home-heading {
+    font-family: "Times New Roman";
+    color: white;
+    font-weight: bold;
+}
+
+.home-para {
+    font-family: "Courier";
+    color: white;
+}
+
+.home-button {
+    background-color: #008080;
+    border-radius: 10px;
+    height: 40px;
+    width: 110px;
+    border-width: 0px;
+    font-family: "Times New Roman";
+    color: white;
+}
+
+.aboutme-bg {
+    background-image: linear-gradient(to bottom, #fff5e6, #cccccc);
+    padding-top: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.aboutme-heading {
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.aboutme-para {
+    font-family: "Serif";
+}
+
+.skills-bg {
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+.skills-heading {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "Times New Roman";
+    padding-bottom: 12px;
+}
+
+.skills-container {
+    background-color: #fff5e6;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skills-image {
+    height: 100px;
+    width: 90px;
+    padding: 20px;
+}
+
+.contact-form {
+    border-radius: 10px;
+    border-width: 0px;
+    height: 40px;
+    width: 250px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.message-box {
+    border-radius: 10px;
+    border-width: 0px;
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.followme-bg {
+    background-image: linear-gradient(to bottom, #cccccc, #fff5e6);
+    padding: 20px;
+}
+
+.follow-icon {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+b {
+    color: #008080;
+}
